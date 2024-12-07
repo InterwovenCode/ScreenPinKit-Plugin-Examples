@@ -1,0 +1,88 @@
+[
+    {
+        "name": "MouseClickEffect",
+        "displayName": "鼠标点击特效",
+        "desc": "添加桌面鼠标滑动特效，目前只有一个水纹效果",
+        "author": "yaoxuanzhi",
+        "version": "v0.0.1",
+        "url": "http://localhost:3000/yaoxuanzhi/mouse_click_effect",
+        "tags": ["click","effect"],
+        "icon": "http://localhost:3000/yaoxuanzhi/plugin_template/raw/master/icons/plugin_template_logo.svg",
+        "previewImages": [
+        ]
+    },
+    {
+        "name": "DesktopEffect",
+        "displayName": "桌面鼠标移动特效",
+        "desc": "添加桌面鼠标滑动特效",
+        "author": "yaoxuanzhi",
+        "version": "v1.0.0",
+        "url": "http://localhost:3000/yaoxuanzhi/desktop_effect",
+        "tags": ["desktop","effect"],
+        "icon": "http://localhost:3000/yaoxuanzhi/plugin_template/raw/master/icons/plugin_template_logo.svg",
+        "previewImages": [
+        ]
+    },
+    {
+        "name": "CombineWaterMarke",
+        "displayName": "嵌入水印",
+        "desc": "该插件会在复制&保存图片的时候嵌入一个二维码水印到图像内，可以借此防止被盗用。",
+        "author": "yaoxuanzhi",
+        "version": "v1.0.0",
+        "url": "http://localhost:3000/yaoxuanzhi/combine_water_marke",
+        "tags": ["水印"],
+        "icon": "http://localhost:3000/yaoxuanzhi/combine_water_marke/raw/master/icons/water_marke.svg",
+        "previewImages": [
+        ]
+    },
+    {
+        "name": "GlobalHotkeyViewerPlugin",
+        "displayName": "全局快捷键查看器",
+        "desc": "打印快捷键信息",
+        "author": "yaoxuanzhi",
+        "version": "v1.0.0",
+        "url": "http://localhost:3000/yaoxuanzhi/global_hotkey_viewer",
+        "tags": ["热键", "日志"],
+        "icon": "http://localhost:3000/yaoxuanzhi/global_hotkey_viewer/raw/master/icons/hotkey_viewer.svg",
+        "previewImages": [
+        ]
+    },
+    {
+        "name": "InternalPluginName",
+        "displayName": "插件模板",
+        "desc": "请修改为你自己的插件描述。",
+        "author": "yaoxuanzhi",
+        "version": "v0.0.1",
+        "url": "http://localhost:3000/yaoxuanzhi/plugin_template",
+        "tags": ["参考", "模板", "辅助开发"],
+        "icon": "http://localhost:3000/yaoxuanzhi/plugin_template/raw/master/icons/plugin_template_logo.svg",
+        "previewImages": [
+            "https://tse4-mm.cn.bing.net/th/id/OIP-C.wAZbmxsBOrpuz71IVUdKrwHaFj?w=233&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+            "https://tse3-mm.cn.bing.net/th/id/OIP-C.03B6yN6KX2J416I-8rVOSQHaFj?w=233&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+        ]
+    },
+    {
+        "name": "QrCodeOCR",
+        "displayName": "二维码识别",
+        "desc": "右键菜单提供二维码识别菜单项，可以识别隐藏的二维码水印",
+        "author": "yaoxuanzhi",
+        "version": "v0.0.1",
+        "url": "http://localhost:3000/yaoxuanzhi/qr_code_ocr",
+        "tags": ["水印"],
+        "icon": "http://localhost:3000/yaoxuanzhi/qr_code_ocr/raw/master/icons/qr_code.svg",
+        "previewImages": [
+        ]
+    },
+    {
+        "name": "SetPdfOcrEnv",
+        "displayName": "设置PdfOcr环境",
+        "desc": "设置pdf-ocr环境变量",
+        "author": "yaoxuanzhi",
+        "version": "v0.0.1",
+        "url": "http://localhost:3000/yaoxuanzhi/set_pdf_ocr_env",
+        "tags": ["环境变量"],
+        "icon": "http://localhost:3000/yaoxuanzhi/plugin_template/raw/master/icons/plugin_template_logo.svg",
+        "previewImages": [
+        ]
+    }
+]
