@@ -7,7 +7,7 @@
         "version": "v0.0.1",
         "url": "https://github.com/InterwovenCode/mouse_click_effect",
         "tags": ["click","effect"],
-        "icon": "http://localhost:3000/yaoxuanzhi/plugin_template/raw/master/icons/plugin_template_logo.svg",
+        "icon": "https://raw.githubusercontent.com/InterwovenCode/ScreenPinKit-Plugin-Examples/refs/heads/main/plugin_template/icons/plugin_template_logo.svg",
         "previewImages": [
         ]
     },
@@ -19,7 +19,7 @@
         "version": "v1.0.0",
         "url": "https://github.com/InterwovenCode/desktop_effect",
         "tags": ["desktop","effect"],
-        "icon": "http://localhost:3000/yaoxuanzhi/plugin_template/raw/master/icons/plugin_template_logo.svg",
+        "icon": "https://raw.githubusercontent.com/InterwovenCode/ScreenPinKit-Plugin-Examples/refs/heads/main/plugin_template/icons/plugin_template_logo.svg",
         "previewImages": [
         ]
     },
@@ -31,7 +31,7 @@
         "version": "v1.0.0",
         "url": "https://github.com/InterwovenCode/ScreenPinKit_Extensions",
         "tags": ["水印"],
-        "icon": "http://localhost:3000/yaoxuanzhi/combine_water_marke/raw/master/icons/water_marke.svg",
+        "icon": "https://raw.githubusercontent.com/InterwovenCode/ScreenPinKit_Extensions/refs/heads/main/outside_plugins/combine_water_marke/icons/water_marke.svg",
         "previewImages": [
         ]
     },
@@ -43,7 +43,7 @@
         "version": "v1.0.0",
         "url": "https://github.com/InterwovenCode/ScreenPinKit-Plugin-Examples",
         "tags": ["热键", "日志"],
-        "icon": "http://localhost:3000/yaoxuanzhi/global_hotkey_viewer/raw/master/icons/hotkey_viewer.svg",
+        "icon": "https://raw.githubusercontent.com/InterwovenCode/ScreenPinKit-Plugin-Examples/refs/heads/main/global_hotkey_viewer/icons/hotkey_viewer.svg",
         "previewImages": [
         ]
     },
@@ -55,10 +55,8 @@
         "version": "v0.0.1",
         "url": "https://github.com/InterwovenCode/ScreenPinKit-Plugin-Examples",
         "tags": ["参考", "模板", "辅助开发"],
-        "icon": "http://localhost:3000/yaoxuanzhi/plugin_template/raw/master/icons/plugin_template_logo.svg",
+        "icon": "https://raw.githubusercontent.com/InterwovenCode/ScreenPinKit-Plugin-Examples/refs/heads/main/plugin_template/icons/plugin_template_logo.svg",
         "previewImages": [
-            "https://tse4-mm.cn.bing.net/th/id/OIP-C.wAZbmxsBOrpuz71IVUdKrwHaFj?w=233&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
-            "https://tse3-mm.cn.bing.net/th/id/OIP-C.03B6yN6KX2J416I-8rVOSQHaFj?w=233&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
         ]
     },
     {
@@ -69,7 +67,7 @@
         "version": "v0.0.1",
         "url": "https://github.com/InterwovenCode/ScreenPinKit_Extensions",
         "tags": ["水印"],
-        "icon": "http://localhost:3000/yaoxuanzhi/qr_code_ocr/raw/master/icons/qr_code.svg",
+        "icon": "https://raw.githubusercontent.com/InterwovenCode/ScreenPinKit_Extensions/refs/heads/main/outside_plugins/qr_code_ocr/icons/qr_code.svg",
         "previewImages": [
         ]
     },
@@ -81,7 +79,7 @@
         "version": "v0.0.1",
         "url": "https://github.com/InterwovenCode/ScreenPinKit-Plugin-Examples",
         "tags": ["环境变量"],
-        "icon": "http://localhost:3000/yaoxuanzhi/plugin_template/raw/master/icons/plugin_template_logo.svg",
+        "icon": "https://raw.githubusercontent.com/InterwovenCode/ScreenPinKit-Plugin-Examples/refs/heads/main/plugin_template/icons/plugin_template_logo.svg",
         "previewImages": [
         ]
     }
