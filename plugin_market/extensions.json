@@ -9,7 +9,8 @@
         "tags": ["click","effect"],
         "icon": "https://raw.githubusercontent.com/InterwovenCode/ScreenPinKit-Plugin-Examples/refs/heads/main/plugin_template/icons/plugin_template_logo.svg",
         "previewImages": [
-        ]
+        ],
+        "supportSystems" : ["win32"]
     },
     {
         "name": "DesktopEffect",
@@ -21,7 +22,8 @@
         "tags": ["desktop","effect"],
         "icon": "https://raw.githubusercontent.com/InterwovenCode/ScreenPinKit-Plugin-Examples/refs/heads/main/plugin_template/icons/plugin_template_logo.svg",
         "previewImages": [
-        ]
+        ],
+        "supportSystems" : ["win32", "darwin", "linux"]
     },
     {
         "name": "CombineWaterMarke",
@@ -33,7 +35,8 @@
         "tags": ["水印"],
         "icon": "https://raw.githubusercontent.com/InterwovenCode/ScreenPinKit_Extensions/refs/heads/main/outside_plugins/combine_water_marke/icons/water_marke.svg",
         "previewImages": [
-        ]
+        ],
+        "supportSystems" : ["win32", "darwin", "linux"]
     },
     {
         "name": "GlobalHotkeyViewerPlugin",
@@ -45,7 +48,8 @@
         "tags": ["热键", "日志"],
         "icon": "https://raw.githubusercontent.com/InterwovenCode/ScreenPinKit-Plugin-Examples/refs/heads/main/global_hotkey_viewer/icons/hotkey_viewer.svg",
         "previewImages": [
-        ]
+        ],
+        "supportSystems" : ["win32", "darwin", "linux"]
     },
     {
         "name": "InternalPluginName",
@@ -57,7 +61,8 @@
         "tags": ["参考", "模板", "辅助开发"],
         "icon": "https://raw.githubusercontent.com/InterwovenCode/ScreenPinKit-Plugin-Examples/refs/heads/main/plugin_template/icons/plugin_template_logo.svg",
         "previewImages": [
-        ]
+        ],
+        "supportSystems" : ["win32", "darwin", "linux"]
     },
     {
         "name": "QrCodeOCR",
@@ -69,7 +74,8 @@
         "tags": ["水印"],
         "icon": "https://raw.githubusercontent.com/InterwovenCode/ScreenPinKit_Extensions/refs/heads/main/outside_plugins/qr_code_ocr/icons/qr_code.svg",
         "previewImages": [
-        ]
+        ],
+        "supportSystems" : ["win32", "darwin", "linux"]
     },
     {
         "name": "SetPdfOcrEnv",
@@ -81,6 +87,7 @@
         "tags": ["环境变量"],
         "icon": "https://raw.githubusercontent.com/InterwovenCode/ScreenPinKit-Plugin-Examples/refs/heads/main/plugin_template/icons/plugin_template_logo.svg",
         "previewImages": [
-        ]
+        ],
+        "supportSystems" : ["win32", "darwin", "linux"]
     }
 ]
