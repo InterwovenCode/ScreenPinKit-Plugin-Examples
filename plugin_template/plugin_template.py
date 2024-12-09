@@ -35,7 +35,7 @@ class PluginTemplate(PluginInterface):
 
     @property
     def url(self) -> str:
-        return "http://localhost:3000/yaoxuanzhi/plugin_template"
+        return "https://github.com/InterwovenCode/ScreenPinKit-Plugin-Examples"
 
     @property
     def tags(self) -> list:

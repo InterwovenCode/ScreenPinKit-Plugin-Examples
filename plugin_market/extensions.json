@@ -5,7 +5,7 @@
         "desc": "添加桌面鼠标滑动特效，目前只有一个水纹效果",
         "author": "yaoxuanzhi",
         "version": "v0.0.1",
-        "url": "http://localhost:3000/yaoxuanzhi/mouse_click_effect",
+        "url": "https://github.com/InterwovenCode/mouse_click_effect",
         "tags": ["click","effect"],
         "icon": "http://localhost:3000/yaoxuanzhi/plugin_template/raw/master/icons/plugin_template_logo.svg",
         "previewImages": [
@@ -17,7 +17,7 @@
         "desc": "添加桌面鼠标滑动特效",
         "author": "yaoxuanzhi",
         "version": "v1.0.0",
-        "url": "http://localhost:3000/yaoxuanzhi/desktop_effect",
+        "url": "https://github.com/InterwovenCode/desktop_effect",
         "tags": ["desktop","effect"],
         "icon": "http://localhost:3000/yaoxuanzhi/plugin_template/raw/master/icons/plugin_template_logo.svg",
         "previewImages": [
@@ -29,7 +29,7 @@
         "desc": "该插件会在复制&保存图片的时候嵌入一个二维码水印到图像内，可以借此防止被盗用。",
         "author": "yaoxuanzhi",
         "version": "v1.0.0",
-        "url": "http://localhost:3000/yaoxuanzhi/combine_water_marke",
+        "url": "https://github.com/InterwovenCode/ScreenPinKit_Extensions",
         "tags": ["水印"],
         "icon": "http://localhost:3000/yaoxuanzhi/combine_water_marke/raw/master/icons/water_marke.svg",
         "previewImages": [
@@ -41,7 +41,7 @@
         "desc": "打印快捷键信息",
         "author": "yaoxuanzhi",
         "version": "v1.0.0",
-        "url": "http://localhost:3000/yaoxuanzhi/global_hotkey_viewer",
+        "url": "https://github.com/InterwovenCode/ScreenPinKit-Plugin-Examples",
         "tags": ["热键", "日志"],
         "icon": "http://localhost:3000/yaoxuanzhi/global_hotkey_viewer/raw/master/icons/hotkey_viewer.svg",
         "previewImages": [
@@ -53,7 +53,7 @@
         "desc": "请修改为你自己的插件描述。",
         "author": "yaoxuanzhi",
         "version": "v0.0.1",
-        "url": "http://localhost:3000/yaoxuanzhi/plugin_template",
+        "url": "https://github.com/InterwovenCode/ScreenPinKit-Plugin-Examples",
         "tags": ["参考", "模板", "辅助开发"],
         "icon": "http://localhost:3000/yaoxuanzhi/plugin_template/raw/master/icons/plugin_template_logo.svg",
         "previewImages": [
@@ -67,7 +67,7 @@
         "desc": "右键菜单提供二维码识别菜单项，可以识别隐藏的二维码水印",
         "author": "yaoxuanzhi",
         "version": "v0.0.1",
-        "url": "http://localhost:3000/yaoxuanzhi/qr_code_ocr",
+        "url": "https://github.com/InterwovenCode/ScreenPinKit_Extensions",
         "tags": ["水印"],
         "icon": "http://localhost:3000/yaoxuanzhi/qr_code_ocr/raw/master/icons/qr_code.svg",
         "previewImages": [
@@ -79,7 +79,7 @@
         "desc": "设置pdf-ocr环境变量",
         "author": "yaoxuanzhi",
         "version": "v0.0.1",
-        "url": "http://localhost:3000/yaoxuanzhi/set_pdf_ocr_env",
+        "url": "https://github.com/InterwovenCode/ScreenPinKit-Plugin-Examples",
         "tags": ["环境变量"],
         "icon": "http://localhost:3000/yaoxuanzhi/plugin_template/raw/master/icons/plugin_template_logo.svg",
         "previewImages": [

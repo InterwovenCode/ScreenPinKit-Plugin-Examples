@@ -35,7 +35,7 @@ class GlobalHotkeyViewerPlugin(PluginInterface):
 
     @property
     def url(self) -> str:
-        return "http://localhost:3000/yaoxuanzhi/global_hotkey_viewer"
+        return "https://github.com/InterwovenCode/ScreenPinKit-Plugin-Examples"
 
     @property
     def tags(self) -> list:
