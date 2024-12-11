@@ -10,7 +10,7 @@
         "icon": "https://raw.githubusercontent.com/InterwovenCode/ScreenPinKit-Plugin-Examples/refs/heads/main/plugin_template/icons/plugin_template_logo.svg",
         "previewImages": [
         ],
-        "supportSystems" : ["win32"]
+        "supportSystems" : ["win32", "darwin", "linux"]
     },
     {
         "name": "DesktopEffect",
