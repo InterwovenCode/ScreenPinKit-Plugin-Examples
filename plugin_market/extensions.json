@@ -10,7 +10,7 @@
         "icon": "https://raw.githubusercontent.com/InterwovenCode/ScreenPinKit-Plugin-Examples/refs/heads/main/plugin_template/icons/plugin_template_logo.svg",
         "previewImages": [
         ],
-        "supportSystems" : ["win32", "darwin", "linux"]
+        "supportSystems" : ["win32"]
     },
     {
         "name": "DesktopEffect",
@@ -22,6 +22,21 @@
         "tags": ["desktop","effect"],
         "icon": "https://raw.githubusercontent.com/InterwovenCode/ScreenPinKit-Plugin-Examples/refs/heads/main/plugin_template/icons/plugin_template_logo.svg",
         "previewImages": [
+        ],
+        "supportSystems" : ["win32", "darwin", "linux"]
+    },
+    {
+        "name": "DesktopClock",
+        "displayName": "桌面时钟",
+        "desc": "给桌面右下角添加一个时钟挂件",
+        "author": "yaoxuanzhi",
+        "version": "v1.0.0",
+        "url": "https://github.com/InterwovenCode/desktop_clock",
+        "tags": ["desktop","clock"],
+        "icon": "https://raw.githubusercontent.com/InterwovenCode/desktop_clock/refs/heads/main/icons/desktop_clock.svg",
+        "previewImages": [
+            "https://raw.githubusercontent.com/InterwovenCode/desktop_clock/refs/heads/main/preview/desktop_clock_preview1.png",
+            "https://raw.githubusercontent.com/InterwovenCode/desktop_clock/refs/heads/main/preview/desktop_clock_preview2.png"
         ],
         "supportSystems" : ["win32", "darwin", "linux"]
     },
